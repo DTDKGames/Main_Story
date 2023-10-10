@@ -1,0 +1,1 @@
+Name Genrator: https://blog.reedsy.com/character-name-generator/

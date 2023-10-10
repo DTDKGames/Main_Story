@@ -1,0 +1,7 @@
+NPC dialog can be done by approaching character and pressing *E* to interact. The player can tell if the NPC can say something by having a speech bubble icon 
+on top of NPC head, if certain NPC interaction is required to continue to the next level, the player will not be able to progress until they have spoken those
+main story characters. Most NPC interactions are optional, 1 or 2 
+
+Example:
+UI
+Go back! You have someone you need to talk to!

@@ -1,0 +1,102 @@
+
+Title: **ACT 2[A Witches Craft]**
+
+CUT TO:
+.Sage has returned to Cordobas home, she meets her at the front of the house; preparing herself to hand the collected items to her.
+
+CORDOBA 
+Hello~ Did you find everything?
+
+SAGE
+Yeah, I think so.
+
+CORDOBA
+Perfect! Lets make this
+
+SAGE
+Make what?
+
+CORDOBA
+Oh I'm sorry dear, were going to make you some items to help you. 
+
+SAGE
+Oh, awesome! Let's do it!
+
+.(offscreen) Cordoba creates some items for Sage, (books, food, potion(s)), chemical sounds, carpentry/mechanical sounds play for a few seconds.
+
+UI
+"You obtained *Potion(Fire)* x 3"
+
+UI
+"You obtained *Potion(Switftness)* x 1"
+
+UI
+"You obtained *Potion(Resistance)* x 1"
+
+UI
+"You obtained *Potion(Healing)* x 5"
+
+
+CUT TO:
+(CORDOBA & SAGE walking down the street together. Cordoba explains to Sage the topology of the land, how to get to the village, and what she needs to get when she gets there.)
+
+CORDOBA
+Sage, this world if filled with monsters and demons, you should learn how to act and where to go in case of an attack. The vilage nearby is fortified, should there be an attack that is the best place to be. Take the long winding path across the river and you will eventually reach the village. 
+
+SAGE
+Path across the river..got i-..wait, upstream?
+
+CORDOBA
+Downstream, there are signs posted across the land giving travelers directions.
+
+SAGE
+Sounds good to me!
+
+CORDOBA
+I need you to go to the local village, there you will find the items I need you to get for me. Get to know the area, look around and talk to some of the townspeople. I will be waiting here.
+
+CORDOBA
+Take this bread for lunch
+
+.Cordoba hands a loaf of bread to sage, dialog will not continue until Sage has picked up the item.
+UI
+"Loaf of bread collected!"
+
+CORDOBA
+And these are your tools of the trade
+
+(These books will have abilities that are not immediately available to the player, these unavailable spells/items/abilities will have visible rectangles(slots) with no text/icon indicating they exist but haven't been discovered. New items she found like potions will be added to list of items she can make/are known to her. If there are 0 of an item in her inventory the item will be greyed out.)
+
+UI
+"You obtained *Grimoire*!"
+(This book will contain log of spells/attacks that Sage can execute if she is in battle and has enough resources (mana) to execute them. Spells she has not unlocked will be greyed out, there are 5 total spells. She can make the 4 potions she was given earlier.)
+UI
+"You obtained *Recipe Book*!"
+(Total of 10 recipes can be made. Will only contain soup recipe for now, other more powerful recipies must be found or traded for.)
+UI
+"You obtained *Health & Potion Book*!"
+(Will have list of ingredients needed to make 3 potions to start off with. This book will say how many can be equiped at a time and how many she has. Potion recipies There are 5 total potions in the game.)
+
+SAGE
+Thank you
+
+CORDOBA
+You're welcome dear, go ahead and read up!. You can recharge magical power (MANA) by collecting the life force of your defeated foes. 
+
+SAGE
+WOOAHHH
+
+CORDOBA
+He he
+
+CORDOBA
+Now go, I will have dinner ready by the time you get back. Make sure to collect enough of everything, I need to make plenty of items for the bazzar in a couple of days.
+
+SAGE
+Okidoki
+
+.Sage starts her treacherous journey to the village, finding goodies along the way.
+
+
+
+
