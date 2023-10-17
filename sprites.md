@@ -7,7 +7,7 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 - [ ] Damned Thread
 - [ ] Iron Ore
 - [ ] Bowl
-- [ ] Book
+- [X] Book
 
 ##Ingredients
 -Vegetables/Fruit = Corn, Potatoes, Blue Lime, Apple, Tomato, Sun Dried Garlic, Lettuce
@@ -18,16 +18,16 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 
 
 ##Enemies
-- [ ] Mushroom Person
+- [X] Mushroom Person
 - [X] Carnivorous Worm
 - [X] Spirit Wolf
 
 ##Wild Game
 - [ ] Deer
 - [ ] Boar
-- [ ] Snake
+- [X] Snake
 - [ ] Rabbit
-- [ ] Duck
+- [X] Duck
 
 ##Sea Life
 - [ ] Cod
