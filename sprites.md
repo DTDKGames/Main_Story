@@ -19,8 +19,8 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 
 ##Enemies
 - [ ] Mushroom Person
-- [ ] Carnivorous Worm
-- [ ] Spirit Wolf
+- [X] Carnivorous Worm
+- [X] Spirit Wolf
 
 ##Wild Game
 - [ ] Deer
