@@ -6,7 +6,7 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 
 - [ ] Damned Thread
 - [X] Iron Ore
-- [ ] Bowl
+- [X] Bowl
 - [X] Book
 
 ##Ingredients
