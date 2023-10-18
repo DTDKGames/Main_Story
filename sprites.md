@@ -26,7 +26,7 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 - [ ] Deer
 - [ ] Boar
 - [X] Snake
-- [ ] Rabbit
+- [X] Rabbit
 - [X] Duck
 
 ##Sea Life
