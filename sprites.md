@@ -5,7 +5,7 @@ https://www.markdownguide.org/extended-syntax/
 List of sprites that need to be drawn, use "-" to denote that they have been drawn 
 
 - [ ] Damned Thread
-- [ ] Iron Ore
+- [X] Iron Ore
 - [ ] Bowl
 - [X] Book
 
