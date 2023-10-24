@@ -21,10 +21,12 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 - [X] Mushroom Person
 - [X] Carnivorous Worm
 - [X] Spirit Wolf
+- [X] Toad Boss
 
 ##Wild Game
 - [ ] Deer
-- [ ] Boar
+- [X] Boar
+- [X] Cow
 - [X] Snake
 - [X] Rabbit
 - [X] Duck
