@@ -24,7 +24,7 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 - [X] Toad Boss
 
 ##Wild Game
-- [ ] Deer
+- [X] Deer
 - [X] Boar
 - [X] Cow
 - [X] Snake
