@@ -39,8 +39,8 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 - [X] Librarian
 - [X] Mayor
 - [X] Chef
-- [ ] Woman
+- [X] Woman
 - [ ] Girl
 - [ ] Boy
-- [ ] Man
+- [X] Man
 - [ ] 
