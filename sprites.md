@@ -38,7 +38,7 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 ##NPCs
 - [X] Librarian
 - [X] Mayor
-- [ ] Chef
+- [X] Chef
 - [ ] Woman
 - [ ] Girl
 - [ ] Boy
