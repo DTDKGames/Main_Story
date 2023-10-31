@@ -36,8 +36,8 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 - [ ] Catfish
   
 ##NPCs
-- [ ] Librarian
-- [ ] Mayor
+- [X] Librarian
+- [X] Mayor
 - [ ] Chef
 - [ ] Woman
 - [ ] Girl
