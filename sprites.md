@@ -11,7 +11,9 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 
 ##Ingredients
 -Vegetables/Fruit = [X] Corn, [X] Potatoes, [X] Blue Lime, [X] Apple, [X]Tomato, Sun Dri Garlic, Lettuce
+
 -Crops = Sugar Cane, Wheat, Wild Herbs, Rice, [X]seeds
+
 -Misc = Milk, Bread, Honey, Cheese, Eggs, Salt, Sacred Tear (Essence of Mana)
 
 -Cooking Tools = [X] Water, Bowl, [X] Cauldron, Matches, Petrified Wood
