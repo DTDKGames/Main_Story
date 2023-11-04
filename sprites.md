@@ -14,7 +14,7 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 
 -Crops = Sugar Cane, [X]Wheat, Wild Herbs, [X]Rice, [X]seeds
 
--Misc = Milk, [X]Bread, Honey, Cheese, Eggs, Salt, Sacred Tear (Essence of Mana)
+-Misc = [X]Milk, [X]Bread, Honey, Cheese, [X]Eggs, [X]Salt, Sacred Tear (Essence of Mana)
 
 -Cooking Tools = [X] Water, Bowl, [X] Cauldron, Matches, Petrified Wood
 
