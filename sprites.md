@@ -43,6 +43,6 @@ List of sprites that need to be drawn, use "-" to denote that they have been dra
 - [X] Chef
 - [X] Woman
 - [ ] Girl
-- [ ] Boy
+- [X] Boy
 - [X] Man
 - [ ] 
